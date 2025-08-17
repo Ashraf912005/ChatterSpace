@@ -69,6 +69,18 @@ Once implemented, the project will follow this modular structure:
 
 ---
 
+## ⚡ Quick Start Example
+
+If you just want to test the project setup locally:
+
+bash
+git clone https://github.com/YOUR_USERNAME/chatterspace.git
+cd chatterspace
+npm install
+npm start
+
+---
+
 ## 🌟 How to Contribute
 
 We welcome contributions from everyone! Please follow these steps:
@@ -141,7 +153,17 @@ Then open a Pull Request on GitHub.
 - Prefer modular, clean code
 - Add comments and documentation
 
+
 ---
+
+### 2. 👥 Contributors Section
+
+Thanks to all the amazing people who contribute to ChatterSpace! 🎉  
+
+- [Ashraf Shikalgar](https://github.com/Ashraf912005)
+(Add your name here after your first contribution!)
+
+
 
 ## 📮 Communication
 
